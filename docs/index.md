@@ -9,17 +9,17 @@ hero:
   actions:
     - theme: brand
       text: Mulai baca
-      link: /jilid1
+      link: /isi/pendahuluan
     - theme: alt
-      text: Jilid 2
-      link: /jilid2
+      text: Bab 1
+      link: /rukunislam
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🌐
+    title: E-Book online
+    details: Tidak perlu membeli buku lagi, cukup dengan membuka situs ini!
+  - icon: 📘
+    title: Mudah untuk dipelajari
+    details: Dengan terjemahan ini, diharapkan dapat membantu pemahaman pembaca.
 ---
 
